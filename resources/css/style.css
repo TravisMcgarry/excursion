@@ -16,7 +16,11 @@ font-weight: 300;
 font-size: 42px;
 }
 
-
+.header--subheader {
+    color: white;
+    font-size: 21px;
+    color: grey;
+    }
 
 
 
